@@ -1,4 +1,4 @@
-# Lab-2 - Train and deploy a heart disease prediction model using XGBoost and IBM Watson Machine Learning APIs
+ Lab-2: Train and deploy a heart disease prediction model using XGBoost and IBM Watson Machine Learning APIs
 
 ## Introduction:
 
@@ -25,5 +25,4 @@ Upon completing the lab, you will know how to:
 ## Instructions:
 
 Step 1. Please click on the link below to download the instructions to your machine. <br>
-[Instructions](https://github.com/bleonardb3/AA_POT_07-02/raw/master/Lab-2/HeartDiseasev1.0.pdf).
-
+[Instructions](https://github.com/bleonardb3/ML_POT_07-23/raw/master/Lab-2/HeartDiseasev2.0.pdf).
