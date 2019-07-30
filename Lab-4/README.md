@@ -1,4 +1,4 @@
-# Lab-4 Watson Studio SPSS Modeler Lab
+# Lab-7: Watson Studio SPSS Modeler Lab
 
 ## Introduction: 
 
@@ -18,7 +18,8 @@ Upon completing the lab, you will:
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/AA_POT_07-02/raw/master/Lab-4/titanic-spss-modeler-edits%202.7.pdf).
+[Instructions](https://github.com/bleonardb3/AA_POT_07-30/raw/master/Lab-4/titanic-spss-modeler-edits%202.9.pdf).
+
 
 
 
